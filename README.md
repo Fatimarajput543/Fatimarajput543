@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fatimarajput543
+- 👋 Hi, I’m Fatima Rajput ,a passionate developer.
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning some skills to polish coding.
 - 📫 You can reach me for the projects of front-end and back-end. 
