@@ -1,4 +1,4 @@
-# Hi there, I'm Fatima Muhammad Ali 👋
+# Hi there, I'm Fatima Muhammad Ali
 
 
 Hey! I'm **Fatima**, a **Computer Science student and Full-Stack Developer** passionate about building practical, scalable, and user-focused web applications.
@@ -7,7 +7,7 @@ I enjoy transforming ideas and requirements into functional software solutions, 
 
 I am passionate about learning new technologies, solving real-world problems, and contributing to meaningful software projects.
 
-## My Tech Stack
+## Technical Expertise
 
 * **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap
 * **Backend:** PHP, Laravel, REST APIs
@@ -23,7 +23,7 @@ I am passionate about learning new technologies, solving real-world problems, an
 * **BAA for Impact** | Frontend Development
 
 ## Projects
-
+* **NTS (National Testing Service)**- An application system for managing NTS test
 * **Humanitarian Action Response Tool (HART)** — Full-stack web application for managing humanitarian situation reports and operational data.
 * **BAA Careers Portal** — React-based job portal interface for managing and presenting career opportunities.
 * **Web Development Projects** — Responsive websites and web applications using PHP, Laravel, React, JavaScript, and MySQL.
@@ -33,15 +33,6 @@ I am passionate about learning new technologies, solving real-world problems, an
 **BS Computer Science** | Government College University Hyderabad
 *2023 - 2026*
 
-## Areas of Interest
-
-* Full-Stack Web Development
-* Software Engineering
-* Backend & API Development
-* Database Design
-* Artificial Intelligence
-* Machine Learning
-* Problem Solving
 
 ## 📫 Connect With Me
 
