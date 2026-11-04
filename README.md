@@ -24,8 +24,8 @@ I am passionate about learning new technologies, solving real-world problems, an
 
 ## Projects
 * **NTS (National Testing Service)**- An application system for managing NTS test
-* **Humanitarian Action Response Tool (HART)** — Full-stack web application for managing humanitarian situation reports and operational data.
-* **BAA Careers Portal** — React-based job portal interface for managing and presenting career opportunities.
+* **Humanitarian Operational Platform  (HOP)** — Full-stack web application for managing humanitarian situation reports and operational data.
+* **Baaforimpact Careers Portal** — React-based job portal interface for managing and presenting career opportunities.
 * **Web Development Projects** — Responsive websites and web applications using PHP, Laravel, React, JavaScript, and MySQL.
 
 ## Education
